@@ -33,13 +33,13 @@ Grant applications can be amended at any time. However, this _necessitates a ree
 
 ### Real-time conversation
 
-We have Matrix/Element channels for real-time discussions on Web3 and Polkadot. Join the conversation.
+We have Matrix/Element channels for real-time support regarding running bounties. Join the conversation.
 
-- [Bounty Support Chat](..)
+- [Bounty Support Chat](https://matrix.to/#/#sm-bounty-support:matrix.org)
 
 Besides, we also have a **community room for all bounty recipients**. Head over to that room to share your experience with other grantees, ask bounty-related questions or simply hang out:
 
-- [Bounty Community](..)
+- [Bounty Community](https://matrix.to/#/#sm-bounty-community:matrix.org)
 
 ## :information_source: License <!-- omit in toc -->
 
