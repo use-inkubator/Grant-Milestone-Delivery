@@ -17,4 +17,4 @@
 
 **Additional Information**
 
-The mint function, initially stated in our application's milestone, has been removed as it was found to be redundant with the deposit function. Also please be aware that the links provided are currently private, as we have not yet conducted the audit. After the audit is completed, we will make the code public.
+The mint function, initially stated in our application's milestone, has been removed as it was found to be redundant with the deposit function. 
