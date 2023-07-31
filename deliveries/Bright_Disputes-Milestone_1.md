@@ -1,8 +1,5 @@
 # Milestone Delivery :mailbox:
 
-
-
-
 * **Application Document:** https://github.com/bright/Ecosystem-Grants/blob/6a756f94bca60bc3d3bcbed64baf11675a5b1eca/applications/Bright_Disputes.md
 
 **Context** (optional)
@@ -10,10 +7,6 @@
 Bright Disputes is a dApp for solving disputes. Our goal is to create a smart contract (written in ink!) which could be used to raise and solve disputes on the Substrate-based blockchains. We would like to leverage a Zk-Snarks to accomplish privacy of voting.
 
 **Deliverables**
-
-
-
-
 
 | Number | Deliverable | Link | Notes |
 | -----: | ----------- |----------- | ------------- |
