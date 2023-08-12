@@ -40,5 +40,5 @@ Quick references:
 * [Open source github repo](https://github.com/InkSmartContract/foodorder-smartcontract.git)
 * [Docker Image](https://hub.docker.com/repository/docker/fpleader/opensmartcontract/)
 
-The project delivers part 1, fully open sourced and [documented]() with Apache 2.0 license, to share with both web2 and web3 developer communities. This is the first of a three parts post covering the use case, ink! implementation with macros. For next steps, the upcoming part 2 on upgradability, and part3 to benchmark the performance, quantify binary footprints and optimize gas costs in various ink! optimization variations. 
+The project delivers part 1, fully open sourced and documented, to share with both web2 and web3 developer communities. This is the [first of a three parts post](https://medium.com/@opensmartcontract/learn-ink-by-example-order-food-on-blockchain-a4024b2dee4a) covering the use case, ink! implementation with macros. For next steps, the upcoming part 2 on upgradability, and part3 to benchmark the performance, quantify binary footprints and optimize gas costs in various ink! optimization variations. 
 
