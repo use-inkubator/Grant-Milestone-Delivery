@@ -35,8 +35,8 @@ In this [technical showcase](https://medium.com/@opensmartcontract/learn-ink-by-
 > 
 Quick references:
 
-* [[Learn ink! by Example - Order Food on Blockchain](https://medium.com/@opensmartcontract/learn-ink-by-example-order-food-on-blockchain-a4024b2dee4a)
-* [[ink! Smart Contract Deployment and Interactions]](https://docs.google.com/document/d/1stF4dCXdT0fjPur23OD-eTZ90FdOq7tU8x2xEkoPojw/edit#heading=h.iq3vnposvacy)
+* [Learn ink! by Example - Order Food on Blockchain](https://medium.com/@opensmartcontract/learn-ink-by-example-order-food-on-blockchain-a4024b2dee4a)
+* [ink! Smart Contract Deployment and Interactions](https://docs.google.com/document/d/1stF4dCXdT0fjPur23OD-eTZ90FdOq7tU8x2xEkoPojw/edit#heading=h.iq3vnposvacy)
 * [Open source github repo](https://github.com/InkSmartContract/foodorder-smartcontract.git)
 * [Docker Image](https://hub.docker.com/repository/docker/fpleader/opensmartcontract/)
 
