@@ -8,7 +8,7 @@
 
 * **Application Document:**, please provide a link to the merged contract from the running buonty (the `.md` file in the [applications](https://github.com/smart-contract-bounty/Wasm-Bounty-01/tree/master/applications) directory).
 
-[Bluesky project]()
+[Bluesky project](https://github.com/dan0ero/Ecosystem-Grants/blob/master/applications/bluesky.md)
 
 **Context** (optional)
 > Please provide a short paragraph or two connecting the deliverables in this milestone and describing their purpose.
