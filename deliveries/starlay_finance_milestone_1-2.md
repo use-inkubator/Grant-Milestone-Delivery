@@ -8,14 +8,22 @@
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 0a. | License | [License](https://github.com/starlay-finance/starlay-protocol-wasm/blob/b7b59137dee756c9ff61f198f6b391a096346807/LICENSE.md) | 　|
+| 0a. | License | [License](https://github.com/starlay-finance/starlay-protocol-wasm/blob/0576d244710c7a0e904479721682929ddbff51c3/LICENSE.md) | 　|
 | 0b. | Documentation | [Documentation](https://docs.starlay.finance) |　 |
-| 1. | Liquidate_borrow function | [Liquidate_borrow function](https://github.com/starlay-finance/starlay-protocol-wasm/blob/b7b59137dee756c9ff61f198f6b391a096346807/logics/impls/pool/mod.rs#L422)  | **Test link:** [Liquidate_Borrow](https://github.com/starlay-finance/starlay-protocol-wasm/blob/b7b59137dee756c9ff61f198f6b391a096346807/tests/Pool.spec.ts#L705) **Test Method:** 1. Run swanky-node on localhost 2. yarn compile 3. yarn test:single tests/Pool.spec.ts |
-| 2. | List tokens (by the owner) | [List tokens](https://github.com/starlay-finance/starlay-protocol-wasm/blob/b7b59137dee756c9ff61f198f6b391a096346807/contracts/manager/lib.rs#L111) | **Test link:** [List Tokens](https://github.com/starlay-finance/starlay-protocol-wasm/blob/b7b59137dee756c9ff61f198f6b391a096346807/tests/Manager.spec.ts#L82) **Test Method:** 1. Run swanky-node on localhost 2. yarn compile 3. yarn test:single tests/Manager.spec.ts |
+| 1. | Liquidate_borrow function | [Liquidate_borrow function](https://github.com/starlay-finance/starlay-protocol-wasm/blob/0576d244710c7a0e904479721682929ddbff51c3/logics/impls/pool/mod.rs#L434)  | **Test link:** [Liquidate_Borrow](https://github.com/starlay-finance/starlay-protocol-wasm/blob/0576d244710c7a0e904479721682929ddbff51c3/tests/Pool1.spec.ts#L716) **Test Method:** 1. Run swanky-node on localhost 2. yarn compile 3. yarn test:single tests/Pool1.spec.ts |
+| 2. | List tokens (by the owner) | [List tokens](https://github.com/starlay-finance/starlay-protocol-wasm/blob/0576d244710c7a0e904479721682929ddbff51c3/contracts/manager/lib.rs#L111) | **Test link:** [List Tokens](https://github.com/starlay-finance/starlay-protocol-wasm/blob/0576d244710c7a0e904479721682929ddbff51c3/tests/Manager.spec.ts#L82) **Test Method:** 1. Run swanky-node on localhost 2. yarn compile 3. yarn test:single tests/Manager.spec.ts |
 | 3. | Switch between EVM and Polkadot | [Switch between EVM and Polkadot](https://testnet-wasm.starlay.finance/app/wasm) | The link provided allows you to test the capability of our platform to switch between EVM and Polkadot. |
 
 **Additional Information**
 
-* OpenBrush's ZERO_ADDRESS: We've taken this into account and have now removed all instances of OpenBrush's ZERO_ADDRESS.
+- **End-to-End Testing Results with GitHub CI:**
+  - [Pool1.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:2892)
+  - [Pool2.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:464)
+  - [Manager.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:947)
+  - [WETHGateway.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:1922)
+  - [Controller.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:2389)
+  - [Flashloan.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:3850)
+  - [Lens.spec.ts](https://github.com/starlay-finance/starlay-protocol-wasm/actions/runs/5900982103/job/16009345510#step:20:4930)
 
-* E2E Test: We've successfully passed all the tests. We've conducted an E2E test of the pool and all functionality works independently of the TS tests as advised. Here is the link: https://github.com/starlay-finance/starlay-protocol-wasm/blob/main/tests/Pool.spec.ts
+- **Gitbook Updates:**
+  We've updated the liquidation section on our gitbook. Furthermore, we've been actively updating and modifying other sections as documented on the following [Notion page](https://unruly-innovation-bff.notion.site/Starlay-Gitbook-5a9fd96d676a47fdbd411c07e0857f9e?pvs=4*). As discussed in milestone1-1, once we transition to the mainnet, we will promptly update our gitbook page with the relevant information and resources.
