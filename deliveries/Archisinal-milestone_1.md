@@ -9,7 +9,7 @@
 * **Application Document:** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
 
 **Context** (optional)
-> The 1st milestone covers only Smart Contracts part of Archisinal MVP. It covers simple marketplace features, including buyer's and creator's administering, fixed price and timed auction options for NFT sales, and colleciton management
+> The 1st milestone focuses on the Smart Contracts part of our Artisanal MVP. It includes basic marketplace features like administering buyers and creators, selling NFTs with fixed prices or timed auctions, managing collections, etc.
 
 **Deliverables**
 
@@ -32,4 +32,10 @@
 
 
 **Additional Information**
-> //TODO add marketing docs
+
+- Marketing materials:
+  - [Go-to-market strategy](https://www.canva.com/design/DAFtxP4snUY/1hHgx_zNKLNjASJ9EZr6hg/view?utm_content=DAFtxP4snUY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- Social media links:
+  - [Archisinal Blog](https://archisinal.medium.com/)
+  - [Instagram](https://www.instagram.com/archisinal.io/)
+  - [LinkedIn](https://www.linkedin.com/company/archisinal-technologies/)
