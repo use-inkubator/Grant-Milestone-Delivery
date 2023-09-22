@@ -29,7 +29,7 @@ WASM Contract Developer feedback (new features) will be requested in October 202
 | 0b. | Polkaholic Documentation | See 0b. Polkaholic Documentation below  | See Polkaholic screenshots and URLs |
 | 0c. | Testing and Testing Guide | See 0c. below | See ChainIDE video walkthrough |
 | 1. | Repository | https://github.com/colorfulnotion/polkaholic  |  |
-| 2. | Repository | https://staging-9589904a8a.chainide.com/s/dashboard/projects | ChainIDE is only semi-open source. |
+| 2. | Repository | https://staging-9589904a8a.chainide.com/s/dashboard/projects | ChainIDE is only semi-open source. This is [the open-source plugin template for ChainIDE](https://github.com/WhiteMatrixTech/chainide-plugin-doc). If you need other open-source plugins, please let us know. |
 
 ## 0b. Polkaholic Documentation
 
