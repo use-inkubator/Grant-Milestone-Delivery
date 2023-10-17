@@ -78,7 +78,7 @@ The [Polkaholic.io API](https://docs.polkaholic.io/#introduction) has been exten
 |---|---|--|
 |Retrieve indexed code hashes by code hash | https://api.polkaholic.io/wasmcode/`{network}` | https://api.polkaholic.io/wasmcode/shiden |
 |Retrieve contract addresses | https://api.polkaholic.io/wasmcontracts/`{network}` | https://api.polkaholic.io/wasmcontracts/shibuya |
-|  Retrieve contract calls of a contract address |  https://api.polkaholic.io/wasmcontract/`{network}`/`{contractAddress}`  | https://api.polkaholic.io/wasmcontract/shiden/XRcGZzdH841dHySiM62BfJDbQfXXYex3U7LYooRJt8EgJeX |
+|Retrieve contract details of a contract address |  https://api.polkaholic.io/wasmcontract/`{network}`/`{contractAddress}`  | https://api.polkaholic.io/wasmcontract/shibuya/XRcGZzdH841dHySiM62BfJDbQfXXYex3U7LYooRJt8EgJeX |
 
 
 ### Polkaholic.io UI for WASM Contracts
