@@ -177,14 +177,12 @@ ChainIDE contains the ability to add arbitrary chains, while Polkaholic.io is ab
 Both teams will complete Milestone 1 in September and are developing plans to propose Milestone 2 in November, after using October as a feedback collection period.  
 
 Here is the detailed timeline:
-* September 2023 - ChainIDE is awaiting QA from Colorful Notion while Astar is currently undergoing acceptance testing.  Colorful Notion is completing this document and finalizing functionality for a developer preview in October 2023.
-
-* *October 2023* - ChainIDE + Colorful Notion  request feedback from curators, all inkubator WASM Contract Developers and experienced WASM Contract Developers to:
+* *November 2023* - ChainIDE + Colorful Notion  request feedback from curators, all inkubator WASM Contract Developers and experienced WASM Contract Developers to:
 
 	1. Try ChainIDE at [https://staging-9589904a8a.chainide.com/s/dashboard/projects](https://staging-9589904a8a.chainide.com/s/dashboard/projects) using Shibuya and the SBY faucet.   We recommend using PSP22, PSP34 or the UniswapV2 contract templates, and then using your own WASM Contract.  
 
-	2. For bug reports and feature requests, submit them [here](TODO) or join our open group here [ChainIDE+Colorful Notion+Astar]()  
+	2. For bug reports and feature requests, report them on the [ink!ubator public Matrix room](https://matrix.to/#/!ysLGVMIyuKKIpwjhAT:matrix.parity.io?via=parity.io&via=matrix.org&via=matrix.parity.io)  
 
-*  _November 2023_ - ChainIDE + Colorful Notion will submit a follow up Milestone 2 proposal based on everyones feedback accumulated in October.
+*  *end of November 2023_ - ChainIDE + Colorful Notion will submit a follow up Milestone 2 proposal based on everyones feedback accumulated in November.
 
 *  _December 2023-March 2024_ - Milestone 2 work (if approved).
