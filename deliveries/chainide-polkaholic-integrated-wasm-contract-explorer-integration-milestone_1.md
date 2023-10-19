@@ -181,7 +181,7 @@ Here is the detailed timeline:
 
 	1. Try ChainIDE at [https://staging-9589904a8a.chainide.com/s/dashboard/projects](https://staging-9589904a8a.chainide.com/s/dashboard/projects) using Shibuya and the SBY faucet.   We recommend using PSP22, PSP34 or the UniswapV2 contract templates, and then using your own WASM Contract.  
 
-	2. For bug reports and feature requests, report them on the [ink!ubator public Matrix room](https://matrix.to/#/!ysLGVMIyuKKIpwjhAT:matrix.parity.io?via=parity.io&via=matrix.org&via=matrix.parity.io)  
+	2. For bug reports and feature requests, report them on the [ink!ubator public Matrix room](https://matrix.to/#/#sm-bounty-support:matrix.org)  
 
 *  *end of November 2023_ - ChainIDE + Colorful Notion will submit a follow up Milestone 2 proposal based on everyones feedback accumulated in November.
 
