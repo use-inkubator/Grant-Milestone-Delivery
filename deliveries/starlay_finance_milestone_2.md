@@ -18,3 +18,4 @@
 **Additional Information**
 * Post-audit refinement will be addressed after the audit is completed. 
 * We've updated the flashloan part on our gitbook. Also we've been updating and modifying other sections on the following the Notion page. As disucussed in the milestone1-1, once we transition to the mainnet, we will promptly update our gitbook page with the relevant information and resources. https://unruly-innovation-bff.notion.site/Starlay-Gitbook-5a9fd96d676a47fdbd411c07e0857f9e?pvs=4
+* Additionally, we are currently in the process of preparing a GitBook for Wasm, which will be available after the launch of Starlay on Wasm. In the meantime, you can refer here for more details: https://github.com/starlay-finance/starlay-protocol-wasm/tree/main#flashloan-implementation
