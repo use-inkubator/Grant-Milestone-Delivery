@@ -1,9 +1,5 @@
 # Milestone Delivery :mailbox:
 
-> ⚡ Only the GitHub account that submitted the application is allowed to submit milestones. 
-> 
-> Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with `>`, such as this one, can be removed.
-
 **The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**  
 
 * **Application Document:** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
