@@ -5,7 +5,7 @@
 * **Application Document:** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
 
 **Context** (optional)
-> The 1st milestone focuses on the Smart Contracts part of our Artisanal MVP. It includes basic marketplace features like administering buyers and creators, selling NFTs with fixed prices or timed auctions, managing collections, etc.
+The 1st milestone focuses on the Smart Contracts part of our Artisanal MVP. It includes basic marketplace features like administering buyers and creators, selling NFTs with fixed prices or timed auctions, managing collections, etc.
 
 **Deliverables**
 
