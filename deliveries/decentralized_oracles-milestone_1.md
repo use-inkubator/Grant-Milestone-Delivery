@@ -27,9 +27,9 @@ When this milestone is completed, we would like to use this offchain rollup requ
     - transform and format the response via the JS engine developed by the Phala team
     - send the output to the Ink! smart contract
 
-In the milestone1, concerning the VRF, we will provide:
+In the milestone1, concerning the VRF, we provide:
 - the Phala offchain rollup for the VRF
-- the Ink! smart contracts to interact with the offchain rollup
+- the Ink! smart contract to interact with the offchain rollup
 - a UI to test and play with these smart contracts.
 - the documentation to use these contracts
 
@@ -37,16 +37,17 @@ In the milestone1, concerning the VRF, we will provide:
 > Please provide a list of all deliverables of the milestone extracted from the initial application and a link to the deliverable itself. Ideally all links inside the below table should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work.
 > If there is anything particular about any of the deliverables we or a future reader should know, use the respective `Notes` column.
 
-| Number | Deliverable                                          | Link                                                                              | Notes                                                           |
-|--------|------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| 1.     | Phat contract: VRF Oracle                            | https://github.com/decentralized-oracles/vrf/tree/main/phat/contracts/vrf_oracle  | ...                                                             | 
-| 2.     | Ink! smart contract: vrf consumer                    | https://github.com/decentralized-oracles/vrf/tree/main/ink/contracts/vrf_consumer | ...                                                             | 
+Demo here: https://vrf-decentralized-oracle.substrate.fi
+
+| Number | Deliverable                                          | Link                                                                              | Notes                                                        |
+|--------|------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 1.     | Phat contract: VRF Oracle                            | https://github.com/decentralized-oracles/vrf/tree/main/phat/contracts/vrf_oracle  |                                                              | 
+| 2.     | Ink! smart contract: vrf consumer                    | https://github.com/decentralized-oracles/vrf/tree/main/ink/contracts/vrf_consumer |                                                           | 
 | 3.     | Library: crate to develop easily the oracle/consumer | https://github.com/Phala-Network/phat-offchain-rollup                             | This part has been released in context of Phala Builder Program | 
-| 4.     | Documentation                                        | https://github.com/decentralized-oracles/vrf                                      |                                                                 | 
-| 5.     | UI                                                   | https://vrf-decentralized-oracle.substrate.fi                                     | ...                                                             |  
-| 6.     | Squid used by the UI                                 | https://github.com/decentralized-oracles/squid-vrf                                | ...                                                             |   
+| 4.     | Documentation                                        | https://github.com/decentralized-oracles/vrf                                      |                                                              | 
+| 5.     | UI                                                   | https://github.com/decentralized-oracles/vrf-ui                                   | Demo here: https://vrf-decentralized-oracle.substrate.fi                                                    |  
+| 6.     | Squid used by the UI                                 | https://github.com/decentralized-oracles/squid-vrf                                |                                                           |   
 
 
 **Additional Information**
-> Any further comments on the milestone that you would like to share with us.
- 
+> Any further comments on the milestone that you would like to share with us. 
