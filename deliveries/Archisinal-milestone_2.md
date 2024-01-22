@@ -3,8 +3,10 @@
 **The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**
 
 * **Application Document:** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
+* **Project repository:** [Archisinal/marketplace-app](https://github.com/Archisinal/marketplace-app)
 
 **Context** (optional)
+
 The 2nd milestone focuses on UI/UX part of Archisinal Marketplace MVP. It includes NextJS marketplace web app, NodeJS
 backend and indexer.
 
