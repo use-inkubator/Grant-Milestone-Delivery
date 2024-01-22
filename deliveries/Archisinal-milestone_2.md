@@ -7,8 +7,8 @@
 
 **Context** (optional)
 
-The 2nd milestone focuses on UI/UX part of Archisinal Marketplace MVP. It includes NextJS marketplace web app, NodeJS
-backend and indexer.
+The 2nd milestone focuses on UI/UX part of Archisinal Marketplace MVP. It covers NextJS marketplace web app, NodeJS
+backend, indexer and CI/CD.
 
 **Deliverables**
 
