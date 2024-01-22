@@ -1,11 +1,8 @@
 # Milestone Delivery :mailbox:
 
-**The invoice has been send out correctly for this milestone and the delivery is according to the
-official [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).
-**
+**The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**
 
-* **Application Document:
-  ** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
+* **Application Document:** [Archisinal](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/Archisinal.md)
 
 **Context** (optional)
 The 2nd milestone focuses on UI/UX part of Archisinal Marketplace MVP. It includes NextJS marketplace web app, NodeJS
@@ -34,7 +31,6 @@ backend and indexer.
 
 **Additional Information**
 
-- Social media links:
-    - [Archisinal Blog](https://archisinal.medium.com/)
-    - [Instagram](https://www.instagram.com/archisinal.io/)
-    - [LinkedIn](https://www.linkedin.com/company/archisinal-technologies/)
+- [Archisinal Blog](https://archisinal.medium.com/)
+- [Instagram](https://www.instagram.com/archisinal.io/)
+- [LinkedIn](https://www.linkedin.com/company/archisinal-technologies/)
