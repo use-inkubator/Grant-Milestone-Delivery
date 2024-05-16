@@ -11,7 +11,7 @@ Bright Disputes is a dApp for solving disputes. Our goal is to create a smart co
 | Number | Deliverable | Link | Notes |
 | -----: | ----------- |----------- | ------------- |
 | **0a.** | License |[LICENSE](https://github.com/bright/bright-disputes/blob/main/LICENSE) | MIT |
-| **0b.** | Documentation | [README](https://github.com/bright/bright-disputes-showcase/blob/main/README.md) | We will provide **inline documentation** of the code. |
+| **0b.** | Documentation | [README](https://github.com/bright/bright-disputes-showcase/blob/main/README.md) and [project README](https://github.com/bright/bright-disputes/blob/main/README.md) | We will provide **inline documentation** of the code. |
 | **0c.** | Testing and Testing Guide | [README](https://github.com/bright/bright-disputes-showcase/blob/main/README.md) | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | - | Omitted due to the lack of extensive prerequisites. |
 | **0e.** | Article | [blog post](https://brightinventions.pl/blog/the-bright-disputes-showcase/) |An **article** that explains how to use the BrightDispute user interface.  |
