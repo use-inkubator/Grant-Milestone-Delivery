@@ -1,6 +1,6 @@
 # Smart Contract Bounty Milestone Delivery <!-- omit in toc -->
 
-> **:loudspeaker:** This repository is only for submitting finished milestones for a running [Smart Contract Bounty Program](https://github.com/smart-contract-bounty/).
+> **:loudspeaker:** This repository is only for submitting finished milestones for a running [Smart Contract Bounty Program](https://github.com/use-inkubator/).
 
 ---
 
@@ -10,12 +10,12 @@
 
 ## :mailbox: Milestone Delivery Process
 
-The milestone delivery process is part of a running [Smart Contract Bounty Program](https://github.com/smart-contract-bounty). You can find the application process of the latest bounty [here](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).  
+The milestone delivery process is part of a running [Smart Contract Bounty Program](https://github.com/smart-contract-bounty). You can find the application process of the latest bounty [here](https://github.com/use-inkubator/Support-Docs/blob/master/milestone-deliverables-guidelines.md).  
 
-:warning: Before you submit a milestone, make sure it complies with our [Guidelines for Milestone Deliverables](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).
+:warning: Before you submit a milestone, make sure it complies with our [Guidelines for Milestone Deliverables](https://github.com/use-inkubator/Support-Docs/blob/master/milestone-deliverables-guidelines.md).
 
 1. **Milestone Delivery:**
-   1. [Fork](https://github.com/smart-contract-bounty/Bounty-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
+   1. [Fork](https://github.com/use-inkubator/Bounty-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
    2. In the newly created fork, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one. Make sure you **do not modify the template file directly**. 
    5. Fill out the template with the details of your milestone, including all deliverables as listed in your application.
    4. Name the file `project_name-milestone_number.md` or in the case of maintenance agreement `project_name-delivery_number.md`
