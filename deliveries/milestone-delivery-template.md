@@ -4,9 +4,9 @@
 > 
 > Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with `>`, such as this one, can be removed.
 
-**The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**  
+**The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/use-inkubator/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**  
 
-* **Application Document:**, please provide a link to the merged contract from the running buonty (the `.md` file in the [applications](https://github.com/smart-contract-bounty/Wasm-Bounty-01/tree/master/applications) directory).
+* **Application Document:**, please provide a link to the merged contract from the running bounty (the `.md` file in the [applications](https://github.com/use-inkubator/Ecosystem-Grants/tree/master/applications) directory).
 
 **Context** (optional)
 > Please provide a short paragraph or two connecting the deliverables in this milestone and describing their purpose.
