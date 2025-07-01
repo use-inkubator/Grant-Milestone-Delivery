@@ -40,7 +40,7 @@ The ink! v5 smart contract `W6jGgZUAiryufdJRX33GdDTeX28pt7dZxawwbCUfFwbc2cH` is 
 
 The UI is deployed here: https://price-feed-ui-v2.vercel.app/
 
-The worker is deployed on Phala Cloud, the UI to start/stop the workers and more: https://0f545fac5fa09d6e0208282eb0cd395b39294f7a-3000.dstack-testnet.phala.network/
+The worker is deployed on Phala Cloud, the UI to start/stop the workers and more: https://367dcb717cab98ca9a84e5534d61df6b91467f4e-3000.dstack-testnet.phala.network/
 
 **Additional Information**
 > Any further comments on the milestone that you would like to share with us.
