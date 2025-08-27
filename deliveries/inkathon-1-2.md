@@ -10,7 +10,7 @@ We're happy to finally deliver a complete rewrite of the [inkathon Boilerplate](
 
 1. 🦑 A new **starterkit application**: https://inkathon.xyz
 2. 📚 A new **standalone documentation**: https://docs.inkathon.xyz
-3. ⚙️ A new **`create-inkathon-app`*** setup command: https://github.com/use-inkubator/inkathon-cli
+3. ⚙️ A new **`create-inkathon-app`*** setup command: https://docs.inkathon.xyz/
 
 New inkathon features:
 
