@@ -1,7 +1,5 @@
 # Milestone Delivery :mailbox:
 
-**The invoice has been send out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/use-inkubator/Support-Docs/blob/master/milestone-deliverables-guidelines.md).**
-
 * **Application Document:**
 https://github.com/use-inkubator/Ecosystem-Grants/blob/master/applications/ink-step-debugger.md
 
